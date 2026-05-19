@@ -1,4 +1,4 @@
-This repository contains data and program used in the manuscript ["Deep learning with the potential to provide accurate and reliable seafloor topography for the public"] submitted to Geophysics on 21th Mar, 2024, by Yang Liu, Sanzhong Li, Weichao Yan, Yi Sun, Haohao Cheng, Yongbo Yu, Zhuoyan Zou. 
+This repository contains data and program used in the manuscript ["Mapping accurate and reliable seafloor topography through deep learning"] submitted to Geophysics on 21th Mar, 2024, by Yang Liu, Sanzhong Li, Weichao Yan, Yi Sun, Haohao Cheng, Yongbo Yu, Zhuoyan Zou. 
 
 CONTENTS:
 
